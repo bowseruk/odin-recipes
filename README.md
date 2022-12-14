@@ -18,7 +18,7 @@ The site does not require installation steps.
 ## Usage
 The website can be viewed at https://bowseruk.github.io/odin-recipes/ with Google Chrome. The source can be viewed in Chrome by right clicking and selecting inspect.
 
-![](Screenshot of the webpage)
+![Screenshot of the webpage](/assests/images/Screenshot.png)
 
 ## Credits
 This site was based on a project by [The Odin Project](https://www.theodinproject.com/).
