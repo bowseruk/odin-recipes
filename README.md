@@ -1,4 +1,4 @@
-# Bootcamp Challenge 1
+# Odin Project - Recipes
 
 ## Description
 For this project, a set of webpages with:
